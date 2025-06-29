@@ -1,0 +1,15 @@
+include "/usr/share/nano/*.nanorc"
+## set nohelp ## Set when you don't want the help menu
+set linenumbers
+set indicator
+set autoindent
+set minibar
+set tabsize 4
+set numbercolor lightwhite
+set constantshow
+set smarthome
+set multibuffer
+set softwrap
+set atblanks
+## What it does: I auto-indenting, M mark is on, L hard-wrapping, R recording a macro, S soft-wrapping.
+set stateflags
