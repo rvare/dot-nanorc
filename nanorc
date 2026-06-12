@@ -4,6 +4,8 @@
 ## But also, to illustrate how Nano can look and feel differently.
 include "/usr/share/nano/*.nanorc"
 ## set nohelp ## Set when you don't want the help menu
+bind ^w nextword main
+bind M-w prevword main
 set linenumbers
 set indicator
 set autoindent
